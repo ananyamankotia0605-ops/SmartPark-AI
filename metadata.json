@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark AI – Intelligent Campus Parking System",
+  "description": "Machine Learning-powered campus parking availability predictor using Random Forest and Decision Tree classifiers on historical occupancy patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
